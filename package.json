@@ -9,6 +9,8 @@
   "author": "Shing Lyu <shing.lyu@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "clipboardy": "^2.1.0",
+    "inquirer": "^7.0.0",
     "superagent": "^5.1.0"
   }
 }
