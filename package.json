@@ -1,0 +1,14 @@
+{
+  "name": "jira-cli",
+  "version": "0.0.1",
+  "description": "A CLI to quickly get your own issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shing Lyu <shing.lyu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^5.1.0"
+  }
+}
